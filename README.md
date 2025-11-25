@@ -1,4 +1,4 @@
-# CodeAlpha_Calculator-Project
+Calculator-Project
 
 Built a calculator using HTML,CSS and JavaScript.
 The layout and button grid are designed to look like a real calculator.
